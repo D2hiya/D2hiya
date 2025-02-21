@@ -1,4 +1,3 @@
-       OS  :  macOS, debian
-Languages  :  C, Cpp, ASM, Py, Java
-   Editor  :  vim
-    Motto  :  Seek strength. The rest will follow.
+ᐟ Hi im Thunder JavaScript and Python in my veins ᐟ
+
+
